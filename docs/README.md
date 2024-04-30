@@ -99,4 +99,6 @@ Currently there are no known issues. If there is any, please open an issue in th
 
 # About
 
-This project was first developed as the Semester 4 Project in the Module `EN2853 - Embedded Systems & Applications`, UoM, CSE.
+This project was first developed as the Semester 4 Project in the Module `EN2853 - Embedded Systems & Applications`
+
+Repository is inspired by this [original Repository : chathura-de-silva/Smart-Medibox](https://github.com/chathura-de-silva/Smart-Medibox)
